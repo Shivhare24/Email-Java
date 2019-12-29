@@ -1,0 +1,12 @@
+Mail_Receipent =
+Mail_Sender =
+Mail_UserName =
+Mail_Password =
+SMTP_Host =
+SMTP_Port =
+SMTP_TTLS =
+SMTP_Transport =
+SMTP_Auth =
+SMTP_Debug =
+Mail_Subject =
+Mail_Text =
